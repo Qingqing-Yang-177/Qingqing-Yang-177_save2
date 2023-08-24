@@ -8,7 +8,7 @@ equal contributors.)
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    link: https://www.mdpi.com/2076-328X/13/5/426
+    paper: https://www.mdpi.com/2076-328X/13/5/426
     image: ./assets/img/WM-Guided-Attention.png
     notes: Published 18 May 2023
 
