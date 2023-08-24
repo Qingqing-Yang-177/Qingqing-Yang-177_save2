@@ -13,15 +13,15 @@ I'm also a **Research Assistant** in the [**Cate Hartley lab**](https://www.hart
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Model of Cognition and Perception:** working memory, attention, decision making
+- **Computational Neuroscience:** Manifolds of neural activity, sensorimotor hierarchy
+- **Machine Learning:** reinforcement learning, artificial neural networks
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug 2023]** Start my Assistant research scientist position in Curtislab, NYU.
+- **[May 2023]** Graduate from New York University with a Master of Arts in Psychology.
+- **[May 2023]** The paper collaborated with Pu Zhu in Hui Chen's lab about the mechanism of working memory-guided attention is published in Behavioral Sciences.
 
 {% include_relative _includes/publications.md %}
 
