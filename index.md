@@ -25,4 +25,4 @@ I'm also a **Research Assistant** in the [**Cate Hartley lab**](https://www.hart
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+#{% include_relative _includes/services.md %}
